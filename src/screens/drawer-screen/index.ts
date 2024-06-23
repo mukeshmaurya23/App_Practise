@@ -1,0 +1,10 @@
+export { default as DrawerChangePassword } from './change-password/change-password'
+export { default as DrawerContactUs } from './contact-us/contact-us.screen'
+export { default as AboutUs } from './about-us/about-us.screen';
+export { default as PoliciesScreen } from "./policies-screen/policies.screen"
+export { default as PrivacyPolicies } from "./policies-screen/privacy-policies.screen"
+export { default as TermsAndCondition } from "./policies-screen/terms-condition.screen"
+export { default as MyProfile } from './profile-screen/my-profile.screen'
+export { default as EditProfile } from './profile-screen/edit-proifle.screen'
+export { default as DrawerInsuranceScreen } from './insurance/insurance-screen'
+export { default as DrawerPrescriptionScreen } from './prescription/prescription-screen'

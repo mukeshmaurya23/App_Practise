@@ -1,0 +1,16 @@
+export { default as Login } from './auth-screens/login-screen/login-screen'
+export { default as OnboardScreen } from './auth-screens/onboard-screen/onboard-screen'
+export { default as RegisterScreen } from './auth-screens/register-screen/register-screen'
+export { default as VerifyOtp } from './auth-screens/verify-otp/verify-otp.screen'
+export { default as Home } from "./home/home.screen"
+export { default as ForgotPassword } from "./auth-screens/forgot-password/forgot-password.screen"
+export { default as ResetPassword } from "./auth-screens/reset-password/reset-password.screen"
+export { default as CommonDiseaseDetailsPage } from "./home/screen/common-diseases-details-page"
+export { default as SpecialityDetailsPage } from "./home/screen/speciality-details-page"
+export { default as ListYourPracticeDetailsPage } from "./home/screen/list-your-practise-details-page"
+export { default as DrawerAppointment } from './drawer-screen/drawer-appointment/drawer-appointment.screen'
+export { default as BookAppointmentListing } from './book-appointment/book-appointment-listing/book-apptmnt-listing.screen'
+export { default as ScheduleAppointment } from './book-appointment/schedule-appointment/schedule-appointment.screen'
+export { default as SearchAppointment } from './book-appointment/serach-appointment/search-appointment.screen'
+export { default as BookaAppointment } from './book-appointment/book-appointment/book-appointment.screen'
+export { default as ReshceduleScreen } from './drawer-screen/drawer-appointment/reschedule-screen/reschedule-screen'
