@@ -15,6 +15,6 @@ const styles = StyleSheet.create({
     borderBottom: {
         borderBottomWidth: moderateScale(1),
         borderBottomColor: Colors.offBlack5,
-        paddingVertical: moderateScale(6),
+        paddingVertical: moderateScale(5),
     },
 })
